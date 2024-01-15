@@ -105,5 +105,21 @@ header {
 }
 
 @media (max-width: 480px) {
-  
+  header {
+    font-size: 5vw;
+  }
+  .main-box {
+    font-size: 6vw;
+    text-align: center;
+  }
+  .main-box input {
+    font-size: 8vw;
+  }
+  .sub-box {
+    font-size: 6vw;
+    width: 70vw;
+  }
+  .symbol {
+    font-size: 9vw;
+  }
 }
